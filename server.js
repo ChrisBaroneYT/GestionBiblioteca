@@ -12,7 +12,7 @@ app.use(express.json()); // Para parsear cuerpos de solicitudes en formato JSON.
 const dbConfig = {
   user: "root",
   password: "root",
-  server: "DESKTOP-EUK5B4K",
+  server: "172.30.30.35",
   database: "BIBLIOTECA",
   options: {
     encrypt: true,
